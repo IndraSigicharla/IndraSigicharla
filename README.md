@@ -1,7 +1,7 @@
 ## Hey there!👋
 🌱 I'm currently a first-year student at Vellore Institute of Technology, with an interest in Artificial Intelligence and PC Hardware.
 
-🤔 I'll gladly accept help from anyone who's willing to contribute in anything, as I'm quite a novice, and very new to everything😅
+🤔 I'll gladly accept help from anyone who's willing to help in anything, as I'm quite a novice, and very new to everything😅
 
 📫 If you want to reach me, here I am! 
 
