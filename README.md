@@ -6,9 +6,7 @@
 📫 If you want to reach me, here I am! 
 
 - [**Instagram**](https://www.instagram.com/sci.fi.sloth/ "My Instagram profile :)") [![1.1]][1] 
-
 - [**Twitter**](https://twitter.com/sci_fi_sloth "My Twitter profile :)") [![2.1]][2]  
-
 - [**LinkedIn**](https://www.linkedin.com/in/indra-sigicharla/ "My LinkedIn profile :)") [![3.1]][3]
 
 [1.1]: https://img.icons8.com/small/32/000000/instagram-new.png 
