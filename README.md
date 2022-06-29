@@ -1,4 +1,4 @@
-<img src="./intro.gif" onclick="google.com" alt="👋 Hi, I'm Indra!"/>
+[<img src="./intro.gif" alt="👋 Hi, I'm Indra!"/>](https://www.google.com)
 
 <br>
 
