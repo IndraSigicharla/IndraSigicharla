@@ -1,4 +1,4 @@
-[<img src="./intro.gif" alt="👋 Hi, I'm Indra!"/>](https://www.google.com)
+[<img src="./intro.gif" alt="👋 Hi, I'm Indra!"/>](https://github.com/IndraSigicharla?tab=repositories)
 
 <br>
 
