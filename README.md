@@ -11,9 +11,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-🌱 I'm currently a third-year student at VIT Chennai, with an interest in Artificial Intelligence, Mathematics, and Game Design.
-
-🤔 I'll gladly accept help from anyone who's willing to help in anything, as I'm quite a novice, and very new to everything 😅
+🌱 I'm currently a Master's student at Boston University, with an interest in Artificial Intelligence, Mathematics, and Game Design.
 
 📫 If you want to reach me, here I am!
 
